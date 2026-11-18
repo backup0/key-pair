@@ -1,4 +1,4 @@
-#KeyPair
+# KeyPair
 
 Simple note taking program similar to Google Notebook. Written in PHP, with SQLite backend, + JQuery.
 
